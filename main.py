@@ -15,4 +15,8 @@ outputNumber += str(denominator)
 
 print(outputNumber)
 
+############################################
+
+print(str(inputtedNumber)[::-1])
+
 print('Thank you for using')
